@@ -1,4 +1,4 @@
-# axis2-jaxws-soap12-demo
+# cxf-soaphandler-demo
 
 ## Environment
 
